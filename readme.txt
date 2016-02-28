@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is very quick and simple.
 dev test.
 unuse fast-forward.
+hello
