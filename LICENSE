@@ -1,4 +1,9 @@
 learn git and use it work!
 Create a new brach is very quick.
+<<<<<<< HEAD
 Branch manage test.
 come on work.
+=======
+Branch manage test
+world
+>>>>>>> dev
